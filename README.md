@@ -1,2 +1,2 @@
 # destroystheworld
-develops tutorial
+devslopes tutorial
